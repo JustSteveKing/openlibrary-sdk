@@ -1,0 +1,73 @@
+{
+  "name": "juststeveking/openlibrary-sdk",
+  "description": "A PHP SDK for the Open Library API.",
+  "homepage": "https://www.juststeveking.uk/",
+  "license": "MIT",
+  "keywords": [
+    "SDK",
+    "API",
+    "SDK tools",
+    "PSR"
+  ],
+  "authors": [
+    {
+      "role": "Developer",
+      "name": "Steve McDougall",
+      "email": "juststevemcd@gmail.com",
+      "homepage": "https://www.juststeveking.uk/"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "JustSteveKing\\OpenLibrary\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "JustSteveKing\\OpenLibrary\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": "^8.1",
+    "juststeveking/sdk-tools": "^0.0.4",
+    "nesbot/carbon": "^2.66"
+  },
+  "require-dev": {
+    "laravel/pint": "^1.7",
+    "nyholm/psr7": "^1.6",
+    "pestphp/pest": "^2.2",
+    "php-http/mock-client": "^1.5",
+    "phpstan/phpstan": "^1.10",
+    "symfony/http-client": "^6.2"
+  },
+  "scripts": {
+    "coverage": [
+      "./vendor/bin/pest --coverage"
+    ],
+    "pint": [
+      "./vendor/bin/pint"
+    ],
+    "stan": [
+      "./vendor/bin/phpstan analyse"
+    ],
+    "test": [
+      "./vendor/bin/pest"
+    ]
+  },
+  "scripts-descriptions": {
+    "pint": "Run Laravel Pint to fix code styling.",
+    "stan": "Run PHPStan to check the static analysis.",
+    "test": "Run PestPHP to run the test suite."
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "allow-plugins": {
+      "php-http/discovery": true,
+      "pestphp/pest-plugin": true
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

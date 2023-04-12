@@ -1,0 +1,2943 @@
+{
+  "links": {
+    "self": "/authors/OL25712A/works.json",
+    "author": "/authors/OL25712A",
+    "next": "/authors/OL25712A/works.json?offset=50"
+  },
+  "size": 313,
+  "entries": [
+    {
+      "title": "Goda omen",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL53305A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "key": "/works/OL34922664W",
+      "type": {
+        "key": "/type/work"
+      },
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-21T05:50:38.018309"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-21T05:50:38.018309"
+      }
+    },
+    {
+      "subjects": [
+        "Cosmology",
+        "Imaginary places",
+        "Wizards",
+        "Discworld (Imaginary place)",
+        "Scientists",
+        "Fiction",
+        "Elves",
+        "Fiction, science fiction, general",
+        "Discworld (imaginary place), fiction"
+      ],
+      "key": "/works/OL17420962W",
+      "title": "Science of Discworld IV",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL22342A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL2624340A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        7544404,
+        7688421,
+        8462822,
+        11293315,
+        8600712,
+        8938180
+      ],
+      "location": "/works/OL19350382W",
+      "subtitle": "Judgement Day",
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T05:56:22.054710"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-21T13:11:01.491630"
+      }
+    },
+    {
+      "subtitle": "Darwin's Watch",
+      "key": "/works/OL14929076W",
+      "title": "The Science of Discworld III",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL22342A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL2624340A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        69539,
+        8741291,
+        8435235,
+        8943389
+      ],
+      "subjects": [
+        "Cosmology",
+        "Evolution",
+        "Fiction",
+        "Wizards",
+        "Discworld (Imaginary place)",
+        "Scientists",
+        "Fiction, fantasy, general",
+        "Scientists, fiction",
+        "Science"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T20:42:44.386019"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-20T16:41:42.056335"
+      }
+    },
+    {
+      "subjects": [
+        "Fantasy fiction",
+        "Cosmology",
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Scientists",
+        "Wizards",
+        "Elves",
+        "FICTION / Alternative History",
+        "FICTION / Fantasy / Contemporary",
+        "FICTION / Science Fiction / Adventure",
+        "Evolution (Biology)",
+        "Fiction, science fiction, action & adventure",
+        "Discworld (imaginary place), fiction",
+        "Scientists, fiction",
+        "Fantasy fiction, history and criticism",
+        "General",
+        "Science / General",
+        "Fiction - General"
+      ],
+      "key": "/works/OL453947W",
+      "title": "The Science of Discworld",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL22342A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL2624340A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        68761,
+        8478342,
+        8741289,
+        68567,
+        1009334,
+        8741323,
+        8666793,
+        68566,
+        8392478,
+        13768064
+      ],
+      "description": "Contains a story by Terry Pratchett, around which Stewart and Cohen write about the Discworld.",
+      "location": "/works/OL453947W",
+      "latest_revision": 17,
+      "revision": 17,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:23:09.948630"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-29T04:09:36.927029"
+      }
+    },
+    {
+      "subtitle": "The Globe",
+      "covers": [
+        68981,
+        8741290,
+        13679612,
+        13550943
+      ],
+      "key": "/works/OL453837W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL22342A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL2624340A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "title": "The Science of Discworld II",
+      "subjects": [
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Wizards",
+        "Scientists",
+        "Elves",
+        "Cosmology",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Fiction, visionary & metaphysical",
+        "Fiction, science fiction, general",
+        "FICTION / Fantasy / General",
+        "FICTION / Visionary & Metaphysical",
+        "FICTION / Science Fiction / General",
+        "Fantasy fiction, history and criticism"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "\"In The Science of Discworld, the wizards of Unseen University unwittingly created Earth (aka Roundworld) and our universe. At the time, they were so concerned with the rules of this new universe that they overlooked its inhabitants completely. Now, they have finally noticed humanity. And humanity has company: Elves, who want very much to take over human society. In this second installment in the Science of Discworld miniseries, Terry Pratchett and acclaimed science writers Jack Cohen and Ian Stewart weave the history of the human mind, culture, language, art and science into a story in which the wizards compete with the elves for control of Roundworld and grapple with the nature of Good and Evil. All the while, the authors explore history as it is rewritten over and over, presenting a fascinating and brilliantly original view of the world we live in\"--",
+      "location": "/works/OL453837W",
+      "latest_revision": 20,
+      "revision": 20,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-20T16:57:47.919881"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Cobanin Taci",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL9897378A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL2629595A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [
+        12233565
+      ],
+      "key": "/works/OL26233799W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-29T18:20:15.690454"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T16:59:42.143917"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "LE LONG COSMOS T5",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL19807A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [
+        12375451
+      ],
+      "key": "/works/OL26419398W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-19T21:50:03.421716"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-21T14:14:36.450752"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Imagined Lives",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL7681649A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL26745A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL1394893A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL336504A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL2152392A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL7376075A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL26233A"
+          }
+        }
+      ],
+      "covers": [
+        12054369
+      ],
+      "key": "/works/OL25843201W",
+      "subjects": [
+        "Catalogs",
+        "English Short stories",
+        "National Portrait Gallery (Great Britain)"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-08T16:48:47.567534"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-20T21:41:03.679904"
+      }
+    },
+    {
+      "description": "The sea has taken everything. Mau is the only one left after a giant wave sweeps his island village away. But when much is taken, something is returned, and somewhere in the jungle Daphne...a girl from the other side of the globe \u2014 is the sole survivor of a ship destroyed by the same wave. Together the two confront the aftermath of catastrophe. Drawn by the smoke of Mau and Daphne's sheltering fire, other refugees slowly arrive: children without parents, mothers without babies, husbands without wives \u2014 all of them hungry and all of them frightened. As Mau and Daphne struggle to keep the small band safe and fed, they defy ancestral spirits, challenge death himself, and uncover a long-hidden secret that literally turns the world upside down....Internationally revered storyteller Terry Pratchett presents a breathtaking adventure of survival and discovery, and of the courage required to forge new beliefs.",
+      "title": "Nation",
+      "covers": [
+        6274738,
+        8536560,
+        8579824,
+        10790181,
+        10751327,
+        12357421
+      ],
+      "subjects": [
+        "Fiction",
+        "Survival in fiction",
+        "Interpersonal relations in fiction",
+        "Interpersonal relations",
+        "Tsunamis",
+        "Tsunamis in fiction",
+        "Survival",
+        "Humor (Fiction)",
+        "Juvenile Fiction",
+        "Science Fiction & Fantasy",
+        "Fantasy",
+        "Young adult fiction",
+        "YOUNG ADULT FICTION / Fantasy",
+        "YOUNG ADULT FICTION / Humorous",
+        "YOUNG ADULT FICTION / Action & Adventure / Survival Stories",
+        "Survival skills",
+        "Children's Books -- Authors & Illustrators, A-Z -- ( P ) -- Pratchett, Terry",
+        "Children's fiction",
+        "Islands of the pacific, fiction",
+        "Interpersonal relations, fiction",
+        "Natural disasters, fiction",
+        "Survival, fiction",
+        "Shipwreck survival",
+        "Michael L. Printz honor books",
+        "nyt:chapter-books=2008-10-19",
+        "New York Times bestseller",
+        "English Fantasy fiction",
+        "Translations into Turkish",
+        "Juvenile fiction"
+      ],
+      "subject_people": [
+        "Mau",
+        "Daphne",
+        "Ataba",
+        "Cahle",
+        "Pilu",
+        "Milo"
+      ],
+      "key": "/works/OL453807W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "location": "/works/OL453807W",
+      "latest_revision": 24,
+      "revision": 24,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-07T10:18:18.327341"
+      }
+    },
+    {
+      "description": "Beloved and bestselling author Sir Terry Pratchett's Dodger, a Printz Honor Book, combines high comedy with deep wisdom in a tale of one remarkable boy's rise in a fantasy-infused Victorian London. Seventeen-year-old Dodger is content as a sewer scavenger. But he enters a new world when he rescues a young girl from a beating, and her fate impacts some of the most powerful people in England. From Dodger's encounter with the mad barber Sweeney Todd, to his meetings with the great writer Charles Dickens and the calculating politician Benjamin Disraeli, history and fantasy intertwine in a breathtaking account of adventure and mystery. A storm. Rain-lashed city streets. A flash of lightning. A scruffy lad sees a girl leap desperately from a horse-drawn carriage in a vain attempt to escape her captors. Can the lad stand by and let her be caught again? Of course not, because he's Dodger. Seventeen-year-old Dodger may be a street urchin, but he gleans a living from London's sewers, and he knows a jewel when he sees one. He's not about to let anything happen to the unknown girl -- not even if her fate impacts some of the most powerful people in England. From Dodger's encounter with the mad barber Sweeney Todd to his meetings with the great writer Charles Dickens and the calculating politician Benjamin Disraeli, history and fantasy intertwine in a breathtaking account of adventure and mystery. Beloved and bestselling author Sir Terry Pratchett combines high comedy with deep wisdom in this tale of an unexpected coming-of-age and one remarkable boy's rise in a complex and fascinating world. - Publisher.",
+      "title": "Dodger",
+      "covers": [
+        7260437,
+        8506288,
+        8513686,
+        11621306
+      ],
+      "subject_places": [
+        "Great Britain",
+        "London (England)"
+      ],
+      "subjects": [
+        "Sweeney Todd (Legendary character)",
+        "Humorous stories",
+        "Love",
+        "Adventure and adventurers",
+        "JUVENILE FICTION / Humorous Stories",
+        "JUVENILE FICTION / Historical / Europe",
+        "Fiction",
+        "JUVENILE FICTION / Action & Adventure / General",
+        "Conduct of life",
+        "History",
+        "Historical",
+        "Juvenile Wit and humor",
+        "Adventure fiction",
+        "Street life",
+        "Friendship",
+        "Sewage",
+        "Europe",
+        "Barbers",
+        "Romance fiction",
+        "Jews",
+        "Action & Adventure",
+        "JUVENILE FICTION",
+        "General",
+        "Authors",
+        "Humorous fiction",
+        "Love stories",
+        "Children's fiction",
+        "Fantasy fiction",
+        "London (england), history, fiction",
+        "Adventure and adventurers, fiction",
+        "Love, fiction",
+        "Conduct of life, fiction",
+        "Survival Young adult fiction",
+        "Young adult historical fiction",
+        "Rescues Young adult fiction",
+        "nyt:chapter-books=2012-10-14",
+        "New York Times bestseller",
+        "Juvenile fiction",
+        "Adventure stories"
+      ],
+      "subject_people": [
+        "Charles Dickens (1812-1870)"
+      ],
+      "key": "/works/OL16699828W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "subject_times": [
+        "19th century",
+        "Victoria, 1837-1901"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "location": "/works/OL16699828W",
+      "latest_revision": 20,
+      "revision": 20,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2012-07-11T10:09:22.015835"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-07T08:24:07.114138"
+      }
+    },
+    {
+      "title": "The Shepherd's Crown",
+      "key": "/works/OL17321009W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "The final Discworld novel.",
+      "covers": [
+        7912258,
+        8435268,
+        8741924,
+        8741925,
+        8779865,
+        8903232,
+        10656224,
+        11446135,
+        8741448
+      ],
+      "subject_places": [
+        "Ankh-Morpork",
+        "Lancre",
+        "the Chalk"
+      ],
+      "subjects": [
+        "Fiction",
+        "Humour",
+        "Fantasy",
+        "Fiction, fantasy, general",
+        "Fantasy fiction",
+        "Humorous stories",
+        "Children's fiction",
+        "Discworld (Imaginary place)",
+        "Witches",
+        "Tiffany Aching (Fictitious character)",
+        "Juvenile fiction",
+        "Fairies",
+        "Good and evil",
+        "Young adult fiction",
+        "Witches, fiction",
+        "Fairies, fiction",
+        "Sorci\u00e8res",
+        "Romans, nouvelles, etc. pour la jeunesse",
+        "F\u00e9es",
+        "Disque-monde (Lieu imaginaire)"
+      ],
+      "subject_people": [
+        "Tiffany Aching"
+      ],
+      "location": "/works/OL17639845W",
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2016-03-15T12:26:06.242185"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-04T03:29:12.345016"
+      }
+    },
+    {
+      "description": "\"Change is afoot in Ankh-Morpork--Discworld's first steam engine has arrived, and once again Moist von Lipwig finds himself with a new and challenging job\"--",
+      "title": "Raising Steam",
+      "covers": [
+        7319335,
+        8943217,
+        8740495,
+        8741480,
+        8742565,
+        8858069,
+        10101057,
+        12620461,
+        8779892,
+        10445939,
+        12342210
+      ],
+      "subject_places": [
+        "Ankh-Morpork"
+      ],
+      "subjects": [
+        "Discworld (Imaginary place)",
+        "Fiction, fantasy, epic",
+        "Fiction, humorous",
+        "Discworld (imaginary place), fiction",
+        "Fiction",
+        "Epic",
+        "Humorous",
+        "Fantasy",
+        "General",
+        "Humorous fiction",
+        "FICTION / Fantasy / Epic",
+        "FICTION / Humorous",
+        "FICTION / General",
+        "nyt:combined-print-and-e-book-fiction=2014-04-06",
+        "New York Times bestseller",
+        "English literature",
+        "Fiction, humorous, general"
+      ],
+      "subject_people": [
+        "Dick Simnel",
+        "Moist von Lipwig"
+      ],
+      "key": "/works/OL17079157W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "location": "/works/OL17079157W",
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2015-01-05T20:08:00.438275"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T03:43:31.876545"
+      }
+    },
+    {
+      "subjects": [
+        "Fiction",
+        "Samuel Vimes (Fictitious character)",
+        "General",
+        "Discworld (Imaginary place)",
+        "FICTION / General",
+        "New York Times bestseller",
+        "nyt:combined_print_fiction=2011-10-15",
+        "Criminal investigation",
+        "Fiction, humorous",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Ficci\u00f3n",
+        "Investigaci\u00f3n criminal",
+        "English literature",
+        "Fiction, humorous, general",
+        "English Fantasy fiction"
+      ],
+      "key": "/works/OL16123737W",
+      "title": "Snuff",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        6950433,
+        9478731,
+        8597289,
+        8740347,
+        8740685,
+        8742722,
+        8779883,
+        8779886,
+        11560189,
+        12021324,
+        10202610
+      ],
+      "description": "\"The 39th installment in the New York Times bestselling \"Discworld\" canon from Terry Pratchett, \"the purely funniest English writer since Wodehouse.\" (Washington Post Book World)\"--",
+      "location": "/works/OL16123737W",
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2011-10-21T11:35:44.552190"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T03:40:42.938382"
+      }
+    },
+    {
+      "subjects": [
+        "Fairies",
+        "Fiction",
+        "Children's Books -- Authors & Illustrators, A-Z -- ( P ) -- Pratchett, Terry",
+        "Children's Books -- Literature -- Action & Adventure",
+        "Children's Books -- Literature -- Humorous",
+        "Children's Books -- Literature -- Science Fiction, Fantasy, Mystery & Horror -- Science Fiction, Fantasy, & Magic",
+        "Science Fiction & Fantasy -- Authors, A-Z -- ( P ) -- Pratchett, Terry",
+        "Teens -- Literature & Fiction -- Adventure & Thrillers",
+        "Teens -- Science Fiction & Fantasy -- Fantasy",
+        "Teens -- Science Fiction & Fantasy -- Science Fiction",
+        "Tiffany Aching (Fictitious character)",
+        "Witches",
+        "Juvenile fiction",
+        "Ghosts",
+        "Fantasy fiction",
+        "Witches, fiction",
+        "Ghosts, fiction",
+        "Fairies, fiction",
+        "Children's fiction",
+        "Discworld (Imaginary place)",
+        "nyt:series-books=2010-10-17",
+        "New York Times bestseller",
+        "Ghost stories",
+        "Fantasy",
+        "Sorci\u00e8res",
+        "Romans, nouvelles",
+        "F\u00e9es",
+        "Histoires de fant\u00f4mes",
+        "Disque-monde (Lieu imaginaire)",
+        "Fantasmes",
+        "Tiffany Archer (Fictitious character)"
+      ],
+      "key": "/works/OL14929052W",
+      "title": "I Shall Wear Midnight",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        6597995,
+        7765274,
+        8104461,
+        8741447,
+        10196245,
+        10525412,
+        10839538,
+        10839539,
+        8741446,
+        12233576,
+        12357480
+      ],
+      "location": "/works/OL14929052W",
+      "latest_revision": 18,
+      "revision": 18,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-03-12T20:42:25.962232"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-05T03:04:14.394783"
+      }
+    },
+    {
+      "description": "The wizards at Ankh-Morpork's Unseen University are renowned for many things_wisdom, magic, and their love of teatime_but athletics is most assuredly not on the list. And so when Lord Ventinari, the city's benevolent tyrant, strongly suggests to Archchancellor Mustrum Ridcully that the university revive an erstwhile tradition and once again put forth a football team composed of faculty, students, and staff, the wizards of UU find themselves in a quandary. To begin with, they have to figure out just what it is that makes this sport_soccer with a bit of rugby thrown in_so popular with Ankh-Morporkians of all ages and social strata. Then they have to learn how to play it. Oh, and on top of that, they must win a football match without using magic. Meanwhile, Trev (a handsome street urchin and a right good kicker) falls hard for kitchen maid Juliet (beautiful, dim, and perhaps the greatest fashion model there ever was), and Juliet's best pal, UU night cook Glenda (homely, sensible, and a baker of jolly good pies) befriends the mysterious Mr. Nutt (about whom no one knows very much, including Mr. Nutt, which is worrisome...). As the big match approaches, these four lives are entangled and changed forever. Because the thing about football_the most important thing about football_is that it is never just about football.",
+      "title": "Unseen Academicals",
+      "covers": [
+        6207522,
+        8741917,
+        8741454
+      ],
+      "subject_places": [
+        "Ankh-Morpork"
+      ],
+      "subjects": [
+        "Fiction",
+        "Discworld (Imaginary place)",
+        "Wizards",
+        "Wizards in fiction",
+        "English Fantasy fiction",
+        "Football stories",
+        "Satire",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Fiction, humorous",
+        "Drama (dramatic works by one author)",
+        "English literature",
+        "nyt:hardcover-fiction=2009-10-25",
+        "New York Times bestseller",
+        "Fiction, humorous, general",
+        "Soccer matches"
+      ],
+      "subject_people": [
+        "Mr. Nutt"
+      ],
+      "key": "/works/OL15082314W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "subject_times": [
+        "discworld"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "location": "/works/OL15082314W",
+      "latest_revision": 20,
+      "revision": 20,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-04-20T11:40:48.870538"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-01T01:57:34.026386"
+      }
+    },
+    {
+      "description": "Tiffany Aching accidentally starts to transform into an anthropomorphic representation of Summer, due to her being unable to resist a good dance, meanwhile the Wintersmith is looking for his destined Mrs who happens to be.... uh oh!\r\n\r\nWintersmith is the third title in an exuberant series crackling with energy and humour. It follows The Wee Free Men and Hat Full of Sky.",
+      "title": "Wintersmith",
+      "covers": [
+        4941553,
+        1283608,
+        10547693,
+        7580584,
+        11634196,
+        12627052,
+        8742404,
+        8532100,
+        12233573,
+        12339184
+      ],
+      "subjects": [
+        "Young adult fiction",
+        "humor",
+        "Winter",
+        "satire",
+        "Juvenile Fiction",
+        "Fairies",
+        "Fiction",
+        "Witches",
+        "mythology",
+        "Fantasy",
+        "Reading Level-Grade 5",
+        "Reading Level-Grade 4",
+        "Reading Level-Grade 7",
+        "Reading Level-Grade 6",
+        "Reading Level-Grade 9",
+        "Reading Level-Grade 8",
+        "Reading Level-Grade 10",
+        "Children's fiction",
+        "Witches, fiction",
+        "Fantasy fiction",
+        "Winter, fiction",
+        "Fairies, fiction",
+        "Discworld (Imaginary place)",
+        "English Fantasy fiction",
+        "Translations into Dutch",
+        "Translations into French"
+      ],
+      "subject_people": [
+        "Wintersmith",
+        "Tiffany Aching",
+        "Nanny Ogg",
+        "Summer Lady",
+        "Nac Mac Feegles",
+        "Granny Weatherwax."
+      ],
+      "key": "/works/OL453989W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "location": "/works/OL453989W",
+      "latest_revision": 31,
+      "revision": 31,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:23:09.948630"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T03:27:41.198597"
+      }
+    },
+    {
+      "title": "A Hat Full of Sky",
+      "covers": [
+        243286,
+        31081,
+        7633206,
+        8431386,
+        8741428,
+        8741429,
+        8741430,
+        8946984,
+        10441662,
+        10656210,
+        10772365,
+        8741431,
+        12233570
+      ],
+      "key": "/works/OL453737W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "Something is coming after Tiffany ...Tiffany Aching is ready to begin her apprenticeship in magic. She expects spells and magic -- not chores and ill-tempered nanny goats! Surely there must be more to witchcraft than this!What Tiffany doesn't know is that an insidious, disembodied creature is pursuing her. This time, neither Mistress Weatherwax (the greatest witch in the world) nor the fierce, six-inch-high Wee Free Men can protect her. In  the end, it will take all of Tiffany's inner strength to save herself ... if it can be done at all.A Story of Discworld",
+      "subjects": [
+        "Discworld (Imaginary place)",
+        "Fairies",
+        "Fairies in fiction",
+        "Fiction",
+        "Juvenile fiction",
+        "Monsters",
+        "Monsters in fiction",
+        "Witches",
+        "Witches in fiction",
+        "Reading Level-Grade 7",
+        "Reading Level-Grade 9",
+        "Reading Level-Grade 8",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 10",
+        "Reading Level-Grade 12",
+        "Children's fiction",
+        "Witches, fiction",
+        "Fairies, fiction",
+        "Monsters, fiction",
+        "Fantasy fiction",
+        "Humorous stories",
+        "Tiffany Aching (Fictitious character)",
+        "Fantasy",
+        "Magic",
+        "English Fantasy fiction",
+        "Translations into German",
+        "Translations into French"
+      ],
+      "location": "/works/OL453737W",
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T03:03:32.895695"
+      }
+    },
+    {
+      "subjects": [
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Fantasy",
+        "Women soldiers",
+        "Discworld (imaginary place), fiction",
+        "Fiction, humorous",
+        "Fiction, fantasy, general",
+        "War",
+        "T\u00bfumaczenia polskie",
+        "Powies c  fantastyczna angielska",
+        "English literature",
+        "Fiction, war & military",
+        "Fiction, humorous, general"
+      ],
+      "key": "/works/OL453799W",
+      "title": "Monstrous Regiment",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        6423308,
+        20880,
+        366696,
+        8445538,
+        8741455,
+        10957054
+      ],
+      "description": "In the twenty-eighth Discworld novel the Discworld goes to war.It began as a sudden strange fancy... Polly Perks had to become a boy in a hurry. Cutting off her hair and wearing trousers was easy. Learning to fart and belch in public and walk like an ape took more time... And now she's enlisted in the army, and searching for her lost brother.But there's a war on. There's always a war on. And Polly and her fellow recruits are suddenly in the thick of it, without any training, and the enemy is hunting them.All they have on their side is the most artful sergeant in the army and a vampire with a lust for coffee. Well... They have the Secret. And as they take the war to the heart of the enemy, they have to use all the resources of... the Monstrous Regiment.",
+      "subject_times": [
+        "1990-"
+      ],
+      "location": "/works/OL453799W",
+      "latest_revision": 19,
+      "revision": 19,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T03:01:31.391874"
+      }
+    },
+    {
+      "title": "Night Watch",
+      "covers": [
+        1926080,
+        261849,
+        20877,
+        7298985,
+        8443063,
+        8739347,
+        8741434,
+        10290199,
+        10442224,
+        10523516,
+        11554980,
+        11974355,
+        10457500
+      ],
+      "key": "/works/OL453809W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "One moment, Sir Sam Vimes is in his old patrolman form, chasing a sweet-talking psychopath across the rooftops of Ankh-Morpork. The next, he's lying naked in the street, having been sent back thirty years courtesy of a group of time-manipulating monks who won't leave well enough alone. This Discworld is a darker place that Vimes remembers too well, three decades before his title, fortune, beloved wife, and impending first child. Worse still, the murderer he's pursuing has been transported back also. Worst of all, it's the eve of a fabled street rebellion that needlessly destroyed more than a few good (and not so good) men. Sam Vimes knows his duty, and by changing history he might just save some worthwhile necks\u2014though it could cost him his own personal future. Plus there's a chance to steer a novice watchman straight and teach him a valuable thing or three about policing, an impressionable young copper named Sam Vimes.",
+      "subjects": [
+        "Fiction",
+        "Samuel Vimes (Fictitious character)",
+        "Discworld (Imaginary place)",
+        "Time travel",
+        "Vimes, Samuel (Fictitious character) -- Fiction.",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "English literature",
+        "Fiction, humorous",
+        "Fiction, humorous, general",
+        "New York Times reviewed"
+      ],
+      "links": [
+        {
+          "title": "New York Times review",
+          "url": "http://www.nytimes.com/2002/12/15/books/books-in-brief-fiction-poetry-259047.html",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "location": "/works/OL453809W",
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T02:56:46.331555"
+      }
+    },
+    {
+      "description": "Winner of the 2001 Carnegie MedalOne rat, popping up here and there, squeaking loudly, and taking a bath in the cream, could be a plague all by himself. After a few days of this, it was amazing how glad people were to see the kid with his magical rat pipe. And they were amazing when the rats followed hint out of town.They'd have been really amazed if they'd ever found out that the rats and the piper met up with a cat somewhere outside of town and solemnly counted out the money.The Amazing Maurice runs the perfect Pied Piper scam. This streetwise alley cat knows the value of cold, hard cash and can talk his way into and out of anything. But when Maurice and his cohorts decide to con the town of Bad Blinitz, it will take more than fast talking to survive the danger that awaits. For this is a town where food is scarce and rats are hated, where cellars are lined with deadly traps, and where a terrifying evil lurks beneath the hunger-stricken streets....Set in Terry Pratchett's widely popular Discworld, this masterfully crafted, gripping read is both compelling and funny. When one of the world's most acclaimed fantasy writers turns a classic fairy tale on its head, no one will ever look at the Pied Piper -- or rats -- the same way again!",
+      "covers": [
+        20819,
+        8778339,
+        9281852,
+        10621386,
+        6851467,
+        8460988,
+        8692765,
+        10513427,
+        12357390,
+        8741435
+      ],
+      "key": "/works/OL453885W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "title": "The Amazing Maurice and His Educated Rodents",
+      "subjects": [
+        "Fiction",
+        "Rats",
+        "Cats",
+        "Musicians",
+        "Swindlers and swindling",
+        "Humorous stories",
+        "Human-animal relationships",
+        "Juvenile Fiction",
+        "Fantasy",
+        "Humorous fiction",
+        "Cats, fiction",
+        "Musicians, fiction",
+        "Rats, fiction",
+        "Children's fiction",
+        "Human-animal relationships, fiction",
+        "Discworld (Imaginary place)",
+        "English Fantasy fiction",
+        "Translations into Turkish"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "location": "/works/OL453885W",
+      "latest_revision": 17,
+      "revision": 17,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:23:09.948630"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T02:53:33.616328"
+      }
+    },
+    {
+      "title": "Thief of Time",
+      "covers": [
+        1007203,
+        366657,
+        6636627,
+        23508,
+        8435670,
+        8637072,
+        10618833,
+        10445974,
+        12662064
+      ],
+      "key": "/works/OL453686W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "In Discworld, time is a resource managed by the highly capable Monks of History. Everybody wants more time, which is why on Discworld only the experts can manage it. While everyone always talks about slowing down, one young horologist is about to do the unthinkable. He's going to stop. Well, stop time that is, by building the world's first truly accurate clock. Which means esteemed History Monk Lu-Tze and his apprentice Lobsang Ludd have to put on some speed to stop the timepiece before it starts. For if the perfect clock starts ticking, time, as we know it, will end. And then the trouble will really begin.",
+      "subject_places": [
+        "Ankh-Morpork",
+        "The Ramtops",
+        "Discworld"
+      ],
+      "subjects": [
+        "English Fantasy fiction",
+        "Discworld (Imaginary place)",
+        "Discworld (Imaginary place",
+        "Fiction",
+        "Fantasy",
+        "Science fiction",
+        "Time",
+        "Humorous fiction",
+        "Clocks and watches",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "English literature",
+        "Fiction, humorous",
+        "Fiction, humorous, general"
+      ],
+      "location": "/works/OL453988W",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T02:47:00.379525"
+      }
+    },
+    {
+      "title": "The Fifth Elephant",
+      "covers": [
+        1007198,
+        1006492,
+        366576,
+        366912,
+        4528004,
+        8325814,
+        8443355,
+        10405079,
+        10942393,
+        10445987,
+        12259867
+      ],
+      "key": "/works/OL453684W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Literature",
+        "Samuel Vimes (Fictitious character)",
+        "Large type books",
+        "Fiction, fantasy, general",
+        "Carrot (fictitious character : pratchett), fiction",
+        "Discworld (imaginary place), fiction",
+        "English literature",
+        "Fiction, humorous",
+        "Fiction, humorous, general"
+      ],
+      "description": "Everyone knows that the world is flat, and supported on the backs of four elephants. But weren't there supposed to be five? Indeed there were. So where is it?...When duty calls. Commander Vimes of the Ankh-Morpork constabulary answers. Even when he doesn't want to. He's been \"invited\" to attend a royal function as both detective and diplomat. The one role he relishes; the other requires, well, ruby tights. Of course where cops (even those clad in tights) go, alas, crime follows. An attempted assassination and a theft soon lead to a desperate chase from the low halls of Discworld royalty to the legendary fat mines of Uberwald, where lard is found in underground seams along with tusks and teeth and other precious ivory artifacts. It's up to the dauntless Vimes -- bothered as usual by a familiar cast of Discworld inhabitants (you know, trolls, dwarfs, werewolves, vampires and such) -- to solve the puzzle of the missing pachyderm. Which of course he does. After all, solving mysteries is his job.",
+      "location": "/works/OL453684W",
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T02:41:58.708336"
+      }
+    },
+    {
+      "title": "Carpe Jugulum",
+      "key": "/works/OL453671W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "Carpe Jugulum (Latin for \"seize the throat\", cf. Carpe diem) is a comic fantasy novel by Terry Pratchett, the twenty-third in the Discworld series. It was first published in 1998.\r\n\r\nIn Carpe Jugulum, Terry Pratchett pastiches the traditions of vampire literature, playing with the mythic archetypes and featuring a tongue-in-cheek reversal of 'vampyre' subculture with young vampires who wear bright clothes, drink wine, and stay up until noon. (description taken from [Wikipedia][1])\r\n\r\n\r\n  [1]: https://en.wikipedia.org/wiki/Carpe_Jugulum",
+      "covers": [
+        43968,
+        10235857,
+        10493106,
+        10619791,
+        10957053,
+        10472002,
+        1006489
+      ],
+      "subjects": [
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Science Fiction",
+        "Fantasy",
+        "Vampires",
+        "Priests",
+        "Witches",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Granny weatherwax (fictitious character), fiction",
+        "English literature",
+        "Fantasy fiction"
+      ],
+      "location": "/works/OL453671W",
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T02:35:18.046554"
+      }
+    },
+    {
+      "title": "Jingo",
+      "covers": [
+        1006483,
+        988169,
+        366908,
+        261851,
+        1283488,
+        366500,
+        10455687,
+        10532479,
+        11499814,
+        10855557
+      ],
+      "key": "/works/OL453727W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "It isn't much of an island that rises up one moonless night from the depths of the Circle Sea -- just a few square miles of silt and some old ruins. Unfortunately, the historically disputed lump of land called Leshp is once again floating directly between Ankh-Morpork and the city of Al-Khali on the coast of Klatch -- which is spark enough to ignite that glorious internationalpastime called \"war.\" Pressed into patriotic service, Commander Sam Vimes thinks he should be leading his loyal watchmen, female watchdwarf, and lady werewolf into battle against local malefactors rather than against uncomfortably well-armed strangers in the Klatchian desert. But war is, after all, simply the greatest of all crimes -- and it's Sir Samuel's sworn duty to seek out criminal masterminds wherever they may be hiding ... and lock them away before they can do any real damage. Even the ones on his own side.",
+      "subjects": [
+        "Fiction",
+        "Samuel Vimes (Fictitious character)",
+        "Discworld (Imaginary place)",
+        "Fantasy",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Carrot (fictitious character : pratchett), fiction",
+        "Discworld (Lugar imaginario)",
+        "Ficci\u00f3n",
+        "Vimes, Samuel (Personaje literario)",
+        "Fiction, humorous",
+        "Fiction, humorous, general",
+        "Science fiction, fantasy, horror"
+      ],
+      "location": "/works/OL453980W",
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T02:30:04.561949"
+      }
+    },
+    {
+      "title": "Hogfather",
+      "covers": [
+        988165,
+        44420,
+        366918,
+        1286994,
+        7978449,
+        8563138,
+        8598301,
+        8996450,
+        10720155,
+        10839217,
+        1006657,
+        1006484,
+        10854659
+      ],
+      "key": "/works/OL453662W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "Who would want to harm Discworld's most beloved icon? Very few things are held sacred in this twisted, corrupt, heartless -- and oddly familiar -- universe, but the Hogfather is one of them. Yet here it is, Hogswatchnight, that most joyous and acquisitive of times, and the jolly old, red-suited gift-giver has vanished without a trace. And there's something shady going on involving an uncommonly psychotic member of the Assassins' Guild and certain representatives of Ankh-Morpork's rather extensive criminal element. Suddenly Discworld's entire myth system is unraveling at an alarming rate. Drastic measures must be taken, which is why Death himself is taking up the reins of the fat man's vacated sleigh . . . which, in turn, has Death's level-headed granddaughter, Susan, racing to unravel the nasty, humbuggian mess before the holiday season goes straight to hell and takes everyone along with it.",
+      "subjects": [
+        "Fiction",
+        "Wizards",
+        "Discworld (Imaginary place)",
+        "Fantasy",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Death (fictitious character : pratchett), fiction",
+        "satire",
+        "humor",
+        "mythology",
+        "pratchett",
+        "discworld",
+        "Motion picture plays",
+        "Magos",
+        "Discworld (Lugar imaginario)",
+        "Ficci\u00f3n",
+        "Fiction, humorous, general",
+        "Literature and fiction, fantasy"
+      ],
+      "subject_places": [
+        "Ankh Morpork",
+        "Unseen University"
+      ],
+      "subject_people": [
+        "Hex",
+        "Susan Stolat",
+        "Ponder Stibbons",
+        "Death",
+        "Albert",
+        "the Tooth Fairy",
+        "the Hogfather",
+        "Mustrum Ridcully",
+        "Mr Teatime",
+        "the Auditors."
+      ],
+      "location": "/works/OL453662W",
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T02:27:23.613124"
+      }
+    },
+    {
+      "title": "Feet of Clay",
+      "covers": [
+        1006473,
+        1006944,
+        366886,
+        366480,
+        10329067,
+        8741433,
+        11407852,
+        8765395,
+        8706873,
+        12215401
+      ],
+      "key": "/works/OL453743W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Discworld (Imaginary Place)",
+        "Science Fiction",
+        "Fantasy",
+        "Samuel Vimes (Fictitious character)",
+        "Fiction",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Carrot (fictitious character : pratchett), fiction",
+        "Fiction, humorous",
+        "Drama (dramatic works by one author)",
+        "Science fiction, fantasy, horror",
+        "Fantasy fiction",
+        "Powie\u015b\u0107 fantastyczna angielska",
+        "T\u0142umaczenia polskie",
+        "Brujas",
+        "Witches",
+        "Literatura inglesa",
+        "Ficci\u00f3n",
+        "Discworld (Imaginary place)"
+      ],
+      "description": "Nineteenth in the Discworld universe and third entry of the City Watch series, this novel follows Captain Carrot, Commander Vimes, and the rest of the Night Watch as they attempt to unravel the mystery of who poisoned Lord Vetinari the Patrician.",
+      "subject_times": [
+        "1970-"
+      ],
+      "location": "/works/OL453817W",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-26T15:32:58.436638"
+      }
+    },
+    {
+      "title": "Interesting Times",
+      "covers": [
+        1006480,
+        366410,
+        379683,
+        4901668,
+        379815,
+        366884,
+        9935818,
+        10235855,
+        10448119,
+        1006582,
+        12215398,
+        10538170
+      ],
+      "key": "/works/OL453707W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "\"May you live in interesting times\" is the worst thing one can wish on a citizen of Discworld -- especially on the distinctly unmagical sorcerer Rincewind, who has had far too much perilous excitement in his life. But when a request for a \"Great Wizzard\" arrives in Ankh-Morpork via carrier albatross from the faraway Counterweight Continent, it's he who's sent as emissary. Chaos threatens to follow the impending demise of the Agatean Empire's current ruler. And, for some incomprehensible reason, someone believes Rincewind will have a mythic role in the war and wholesale bloodletting that will surely ensue. (Carnage is pretty much a given, since Cohen the Barbarian and his extremely elderly Silver Horde are busily formulating their own plan for looting, pillaging, and, er, looking wistfully at girls.) However, Rincewind firmly believes there are too many heroes already in the world, yet only one Rincewind. And he owes it to the world to keep that one alive for as long as possible.",
+      "subjects": [
+        "Fantasy fiction",
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Fantasy",
+        "Drama (dramatic works by one author)",
+        "Fiction, fantasy, general",
+        "Drama",
+        "English Fantasy drama",
+        "Discworld (imaginary place), fiction",
+        "Fiction, humorous",
+        "Rincewind the wizard (fictitious character), fiction",
+        "Science fiction, fantasy, horror",
+        "Wizards",
+        "Disque-monde (Lieu imaginaire)",
+        "Romans, nouvelles"
+      ],
+      "location": "/works/OL453750W",
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T02:19:07.071358"
+      }
+    },
+    {
+      "title": "Men at Arms",
+      "covers": [
+        1006580,
+        1006827,
+        4918188,
+        379783,
+        366415,
+        392470,
+        366880,
+        45139,
+        7819275,
+        9023423,
+        10991995,
+        12287083,
+        10460303,
+        11339183,
+        4932701,
+        988151,
+        12215382
+      ],
+      "key": "/works/OL453739W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Discworld (Imaginary place)",
+        "Fantasy",
+        "Fiction",
+        "Samuel Vimes (Fictitious character)",
+        "Assassination",
+        "Theft",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Carrot (fictitious character : pratchett), fiction",
+        "Fiction, humorous",
+        "English Fantasy fiction",
+        "Translations into Dutch",
+        "Fiction, humorous, general",
+        "Bk. 15",
+        "Discworld"
+      ],
+      "description": "De Nachtwacht onderzoekt een aantal moorden en probeert ondertussen de trollen en dwergen uit elkaar te houden die elkaar maar al te graag naar de keel vliegen.",
+      "location": "/works/OL453747W",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T02:12:36.743844"
+      }
+    },
+    {
+      "title": "Lords and Ladies",
+      "covers": [
+        1006531,
+        1006792,
+        1005653,
+        366216,
+        6306930,
+        4942424,
+        8333803,
+        8774037,
+        8848852,
+        11044469,
+        12215380,
+        10460302
+      ],
+      "key": "/works/OL453787W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "The fairies are back - but this time they don't just want your teeth...\r\n\r\nGranny Weatherwax and her tiny coven are up against real elves.\r\n\r\nIt's Midsummer Night.\r\n\r\nNo times for dreaming...\r\n\r\nWith full supporting cast of dwarfs, wizards, trolls, Morris dancers and one orang-utan. And lots of hey-nonny-nonny and blood all over the place.",
+      "subject_places": [
+        "Discworld (Imaginary place)"
+      ],
+      "subjects": [
+        "Fiction",
+        "Discworld (Imaginary place)",
+        "Fantasy",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Granny weatherwax (fictitious character), fiction",
+        "Drama",
+        "Fiction, humorous",
+        "Literature and fiction (general)",
+        "Literature and fiction, fantasy",
+        "English Fantasy fiction",
+        "Translations into Dutch",
+        "Witches"
+      ],
+      "subject_people": [
+        "Granny Weatherwax (Fictional character)",
+        "Nanny Ogg (Fictional character)",
+        "Magrat Garlick (Fictional character)"
+      ],
+      "lc_classifications": [
+        "PS"
+      ],
+      "dewey_number": [
+        "813"
+      ],
+      "location": "/works/OL453787W",
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T01:25:33.644452"
+      }
+    },
+    {
+      "title": "Small Gods",
+      "covers": [
+        5257038,
+        45138,
+        1283473,
+        7801956,
+        9023424,
+        10708915,
+        1006502,
+        980476,
+        12119033,
+        12226834
+      ],
+      "key": "/works/OL453697W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "In the beginning was the Word.\r\n\r\nAnd the Word was: \"Hey, you!\"\r\n\r\nFor Brutha the novice is the Chosen One. He wants peace and justice and brotherly love.\r\n\r\nHe also wants the Inquisition to stop torturing him now, please...",
+      "links": [
+        {
+          "title": "Small God's Wikipedia page.",
+          "url": "http://en.wikipedia.org/wiki/Small_Gods_%28novel%29",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "subject_places": [
+        "Discworld (Imaginary place)"
+      ],
+      "subjects": [
+        "Discworld (Imaginary place)",
+        "Science fiction",
+        "Fantasy fiction",
+        "Fiction",
+        "Fantasy",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Fiction, humorous",
+        "Comics & graphic novels, fantasy",
+        "Science fiction, fantasy, horror",
+        "Fiction, humorous, general"
+      ],
+      "subject_people": [
+        "Brutha (Fictional character)",
+        "Vorbis (Fictional character)"
+      ],
+      "location": "/works/OL453697W",
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T01:23:30.638738"
+      }
+    },
+    {
+      "title": "Reaper Man",
+      "covers": [
+        1006475,
+        980345,
+        8774342,
+        5277634,
+        294685,
+        366864,
+        366249,
+        366141,
+        8472357,
+        10839481,
+        1006500,
+        12130633,
+        12306031
+      ],
+      "key": "/works/OL453654W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subject_places": [
+        "Ankh-Morpork"
+      ],
+      "subjects": [
+        "Fiction, humorous",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "English literature",
+        "Fiction",
+        "Discworld (Imaginary place)",
+        "Death",
+        "Fantasy",
+        "Fiction, thrillers, general",
+        "Death (fictitious character : pratchett), fiction",
+        "Fiction, humorous, general"
+      ],
+      "description": "They say there are only two things you can count on ...But that was before DEATH started pondering the existential. Of course, the last thing anyone needs is a squeamish Grim Reaper and soon his Discworld bosses have sent him off with best wishes and a well-earned gold watch. Now DEATH is having the time of his life, finding greener pastures where he can put his scythe to a whole new use.But like every cutback in an important public service, DEATH's demise soon leads to chaos and unrest -- literally, for those whose time was supposed to be up, like Windle Poons. The oldest geezer in the entire faculty of Unseen University -- home of magic, wizardry, and big dinners -- Windle was looking forward to a wonderful afterlife, not this boring been-there-done-that routine. To get the fresh start he deserves, Windle and the rest of Ankh-Morpork's undead and underemployed set off to find DEATH and save the world for the living (and everybody else, of course).",
+      "location": "/works/OL20117100W",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T01:16:27.581369"
+      }
+    },
+    {
+      "subjects": [
+        "Fiction in Spanish",
+        "Discworld (Imaginary Place)",
+        "Samuel Vimes (Fictitious character)",
+        "Fiction",
+        "Guards troops",
+        "Fantasy",
+        "Translations into Italian",
+        "English fiction",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Carrot (fictitious character : pratchett), fiction",
+        "Fiction, humorous",
+        "English literature",
+        "British and irish drama (dramatic works by one author)"
+      ],
+      "key": "/works/OL453735W",
+      "title": "Guards! Guards!",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        4901175,
+        379726,
+        1009126,
+        366862,
+        8564089,
+        8673392,
+        8913515,
+        43534,
+        1007207,
+        8949699,
+        9025269,
+        10525529,
+        11561297,
+        11511232,
+        12353466,
+        12233569
+      ],
+      "description": "Here there be dragons ... and the denizens of Ankh-Morpork wish one huge firebreather would return from whence it came. Long believed extinct, a superb specimen of draco nobilis (\"noble dragon\" for those who don't understand italics) has appeared in Discworld's greatest city. Not only does this unwelcome visitor have a nasty habit of charbroiling everything in its path, in rather short order it is crowned King (it is a noble dragon, after all ...).",
+      "location": "/works/OL453736W",
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T01:01:36.439737"
+      }
+    },
+    {
+      "title": "Pyramids",
+      "key": "/works/OL453661W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "It's bad enough being new on the job, but Teppic hasn't a clue as to what a pharaoh is supposed to do. After all, he's been trained at Ankh-Morpork's famed assassins' school, across the sea from the Kingdom of the Sun.First, there's the monumental task of building a suitable resting place for Dad -- a pyramid to end all pyramids. Then there are the myriad administrative duties, such as dealing with mad priests, sacred crocodiles, and marching mummies. And to top it all off, the adolescent pharaoh discovers deceit, betrayal -- not to mention aheadstrong handmaiden -- at the heart of his realm.",
+      "covers": [
+        43536,
+        4917799,
+        366138,
+        7287042,
+        980071,
+        10172750,
+        9021696,
+        10235853,
+        11646900,
+        8892602,
+        8919397,
+        1008486,
+        4901558,
+        12130637
+      ],
+      "subjects": [
+        "American Fantasy fiction",
+        "Discworld (Imaginary place)",
+        "Fantasy",
+        "Fiction",
+        "Pyramids",
+        "Translations into Russian",
+        "Pyramids -- Fiction.",
+        "English fiction",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Fiction, humorous",
+        "Science fiction, fantasy, horror",
+        "Fiction, science fiction, general",
+        "Fiction, humorous, general",
+        "Literature and fiction, science fiction",
+        "Fiction, general",
+        "Spanish: Adult Fiction"
+      ],
+      "subject_places": [
+        "Discworld"
+      ],
+      "first_publish_date": "1989",
+      "dewey_number": [
+        "823/.914"
+      ],
+      "location": "/works/OL453661W",
+      "latest_revision": 17,
+      "revision": 17,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T00:58:53.903716"
+      }
+    },
+    {
+      "title": "Wyrd Sisters",
+      "key": "/works/OL453660W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Granny weatherwax (fictitious character), fiction",
+        "Fiction",
+        "Discworld (Imaginary place)",
+        "Occult fiction",
+        "Witches",
+        "Fantasy",
+        "MacBeth",
+        "satire",
+        "humor",
+        "kingdom",
+        "Fantasy fiction",
+        "Fiction, humorous",
+        "Fiction, humorous, general",
+        "Literature and fiction, fantasy",
+        "Fiction, science fiction, general",
+        "English Fantasy fiction",
+        "Translations into Turkish",
+        "Turkish Fantasy fiction",
+        "Translations from English",
+        "Disque-monde (Lieu imaginaire)",
+        "Romans, nouvelles",
+        "Sorci\u00e8res",
+        "English literature",
+        "Witchcraft",
+        "Drama",
+        "Wizards",
+        "Occultism"
+      ],
+      "covers": [
+        366412,
+        4683887,
+        43538,
+        294647,
+        4683700,
+        7588276,
+        8469327,
+        8750159,
+        9021683,
+        11195227,
+        5326417,
+        979993,
+        11694906,
+        10872866,
+        12130631,
+        12285341
+      ],
+      "description": "Granny Weatherwax, Nanny Ogg, and Maigrat have fairy godmother-dom thrust upon them.",
+      "subject_places": [
+        "Lancre (Imaginary place)",
+        "Ankh-Morpork (Imaginary place)"
+      ],
+      "subject_people": [
+        "Nanny Ogg",
+        "Granny Weatherwax",
+        "Maigrat",
+        "Greebo",
+        "Verence",
+        "Death"
+      ],
+      "location": "/works/OL453884W",
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-16T04:16:15.142051"
+      }
+    },
+    {
+      "title": "Sourcery",
+      "covers": [
+        43540,
+        6851465,
+        4918192,
+        4918193,
+        7806945,
+        8769457,
+        9054864,
+        10490947,
+        8920008,
+        10491657,
+        10618567,
+        980151,
+        4901548,
+        -1
+      ],
+      "key": "/works/OL453659W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "When last seen, the singularly inept wizard Rincewind had fallen off the edge of the world. Now magically, he's turned up again, and this time he's brought the Luggage.But that's not all...Once upon a time, there was an eighth son of an eighth son who was, of course, a wizard. As if that wasn't complicated enough, said wizard then had seven sons. And then he had an eighth son -- a wizard squared (that's all the math, really). Who of course, was a source of magic -- a sorcerer.",
+      "subjects": [
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Fantasy",
+        "English Fantasy fiction",
+        "Wizards",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Fiction, humorous",
+        "Rincewind the wizard (fictitious character), fiction",
+        "Fiction, humorous, general",
+        "Literature and fiction, fantasy",
+        "Motion picture plays",
+        "English literature"
+      ],
+      "location": "/works/OL453828W",
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T00:51:20.785784"
+      }
+    },
+    {
+      "title": "Mort",
+      "covers": [
+        6851461,
+        979841,
+        1008668,
+        1008478,
+        379715,
+        4918216,
+        1283450,
+        43542,
+        379744,
+        366411,
+        366094,
+        9021091,
+        8750269,
+        10106388,
+        10296405,
+        379667,
+        1007201,
+        8920002,
+        10855623,
+        11677439,
+        12351268,
+        10329065,
+        12283025
+      ],
+      "key": "/works/OL453658W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": "Death takes on an apprentice who's an individual thinker.",
+      "subjects": [
+        "Death",
+        "Discworld (Imaginary place)",
+        "Fantasy",
+        "Fiction",
+        "satire",
+        "humor",
+        "anthropomorphic.",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Death (fictitious character : pratchett), fiction",
+        "Fiction, humorous",
+        "Fiction, humorous, general",
+        "Literature and fiction, fantasy",
+        "Science fiction",
+        "Fantasy fiction",
+        "Disque-monde (Lieu imaginaire)"
+      ],
+      "subject_people": [
+        "Death",
+        "Mort",
+        "Ysabell",
+        "Albert."
+      ],
+      "subject_places": [
+        "Discworld"
+      ],
+      "location": "/works/OL453728W",
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T00:48:23.048351"
+      }
+    },
+    {
+      "title": "The Light Fantastic",
+      "covers": [
+        1009269,
+        2205855,
+        1009231,
+        5277805,
+        43547,
+        7080441,
+        652366,
+        379712,
+        7445566,
+        7774583,
+        9054913,
+        10202765,
+        8919396,
+        10501977,
+        10639705,
+        979754,
+        6846186,
+        4901541,
+        10723160,
+        12315932,
+        10701864
+      ],
+      "key": "/works/OL453680W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subjects": [
+        "Fiction",
+        "Discworld (Imaginary place)",
+        "Samuel Vimes (Fictitious character)",
+        "Fantasy",
+        "Discworld (imaginary place), fiction",
+        "Fiction, fantasy, general",
+        "Fiction, humorous",
+        "Rincewind the wizard (fictitious character), fiction",
+        "Fiction, humorous, general",
+        "Literature and fiction, fantasy",
+        "Fiction, satire"
+      ],
+      "subject_people": [
+        "Rincewind",
+        "Twoflower"
+      ],
+      "subject_places": [
+        "Discworld"
+      ],
+      "location": "/works/OL453680W",
+      "description": {
+        "type": "/type/text",
+        "value": "From the back cover:\r\n\r\nIn *The Light Fantastic* only one individual can save the world from a disastrous collision.  Unfortunately, the hero happens to be the singularly inept wizard Rincewind, who was last seen falling off the edge of the world...."
+      },
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T18:10:00.716397"
+      }
+    },
+    {
+      "subjects": [
+        "Discworld (Imaginary place)",
+        "Fiction",
+        "Romans",
+        "Merveilleux",
+        "Fantasy",
+        "Samuel Vimes (Fictitious character)",
+        "Rincewind",
+        "Twoflower (fictional characters)",
+        "parody",
+        "humour",
+        "Dollhouses",
+        "Doll furniture",
+        "Miniature objects",
+        "Collectors and collecting",
+        "Miniature dolls",
+        "Fiction, humorous",
+        "Fiction, fantasy, general",
+        "Discworld (imaginary place), fiction",
+        "Fiction, humorous, general",
+        "Rincewind the wizard (fictitious character), fiction",
+        "Fiction, satire",
+        "Geographical myths"
+      ],
+      "key": "/works/OL453657W",
+      "title": "The Colour of Magic",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL25712A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "covers": [
+        980221,
+        43549,
+        3373329,
+        6741884,
+        366254,
+        652375,
+        -1,
+        7784779,
+        8765175,
+        10384515,
+        8577803,
+        1008530,
+        8463434,
+        9145203,
+        10367676,
+        11153510,
+        12315930,
+        10349290,
+        12283445,
+        10675390
+      ],
+      "description": "Terry Pratchett's profoundly irreverent novels are consistent number one bestsellers in England, where they have garnered him a revered position in the halls of parody next to Mark Twain, Kurt Vonnegut, Douglas Adams, and Carl Hiaasen.The Color of Magic is Terry Pratchett's maiden voyage through the now-legendary land of Discworld. This is where it all begins--with the tourist Twoflower and his wizard guide, Rincewind.",
+      "links": [
+        {
+          "title": "Wikipedia (Discworld)",
+          "url": "http://en.wikipedia.org/wiki/Discworld",
+          "type": {
+            "key": "/type/link"
+          }
+        },
+        {
+          "title": "Goodreads",
+          "url": "http://www.goodreads.com/book/show/34497.The_Color_of_Magic",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "subject_places": [
+        "Discworld (Imaginary place)",
+        "Discworld"
+      ],
+      "subject_people": [
+        "Samuel Vimes (Fictitious character)",
+        "Rincewind",
+        "Twoflower (fictional characters)",
+        "Twoflower"
+      ],
+      "location": "/works/OL453676W",
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-08T02:21:44.262684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-11T02:42:51.855538"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Going Postal : (Discworld Novel 33)",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        }
+      ],
+      "key": "/works/OL29049137W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-18T04:58:42.325264"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Pyramids : (Discworld Novel 7)",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        }
+      ],
+      "key": "/works/OL29047756W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-18T04:40:15.516170"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "LA LONGUE UTOPIE",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL19807A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL8954306A"
+          }
+        }
+      ],
+      "key": "/works/OL28949896W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-29T04:59:09.147944"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Carpe Jugulum",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL3206965A"
+          }
+        }
+      ],
+      "key": "/works/OL29250318W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-31T04:50:28.563004"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "LA LONGUE GUERRE",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL19807A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL8954306A"
+          }
+        }
+      ],
+      "key": "/works/OL28949892W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-29T04:58:50.160981"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Making Money : (Discworld Novel 36)",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        }
+      ],
+      "key": "/works/OL29049136W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-18T04:58:41.498871"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Interesting Times : (Discworld Novel 17)",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        }
+      ],
+      "key": "/works/OL28802128W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-17T17:08:34.711356"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Ladron Del Tiempo",
+      "subjects": [
+        "Time",
+        "Fiction",
+        "Discworld (Imaginary place)",
+        "English Fantasy fiction",
+        "Translations into Spanish",
+        "Temps",
+        "Romans, nouvelles",
+        "Disque-monde (Lieu imaginaire)"
+      ],
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        }
+      ],
+      "covers": [
+        12939654
+      ],
+      "key": "/works/OL28958219W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-08T06:15:28.031265"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "LA CARTE DU DISQUE MONDE",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        }
+      ],
+      "key": "/works/OL28946824W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-26T19:47:20.318142"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Sourcery : (Discworld Novel 5)",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        }
+      ],
+      "key": "/works/OL28804485W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-17T17:52:42.120087"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "MECOMPTES DE FEES LES ANNALES DU DISQUE MONDE12",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL3113878A"
+          }
+        }
+      ],
+      "key": "/works/OL28946242W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-25T08:26:42.392219"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Die xing shi jie te jing dui",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL25712A"
+          }
+        }
+      ],
+      "covers": [
+        12992155
+      ],
+      "key": "/works/OL29258305W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-07T04:45:25.860776"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-10T19:47:21.267613"
+      }
+    }
+  ]
+}
