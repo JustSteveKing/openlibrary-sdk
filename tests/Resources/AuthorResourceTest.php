@@ -9,7 +9,7 @@ use JustSteveKing\OpenLibrary\Enums\Size;
 use JustSteveKing\Tools\Contracts\Http\ResponseContract;
 use JustSteveKing\Tools\Http\Enums\Status;
 
-it('fetch an author', function (string $id): void {
+it('can fetch an author', function (string $id): void {
     $mock = new MockClient();
     $mock->addResponse(
         response: buildResponse(

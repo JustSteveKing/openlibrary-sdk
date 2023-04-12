@@ -1,0 +1,64 @@
+{
+  "subjects": [
+    "Cosmology",
+    "Imaginary places",
+    "Wizards",
+    "Discworld (Imaginary place)",
+    "Scientists",
+    "Fiction",
+    "Elves",
+    "Fiction, science fiction, general",
+    "Discworld (imaginary place), fiction"
+  ],
+  "key": "/works/OL17420962W",
+  "title": "Science of Discworld IV",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL25712A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL22342A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL2624340A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    7544404,
+    7688421,
+    8462822,
+    11293315,
+    8600712,
+    8938180
+  ],
+  "location": "/works/OL19350382W",
+  "subtitle": "Judgement Day",
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-10-14T05:56:22.054710"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-03-21T13:11:01.491630"
+  }
+}
