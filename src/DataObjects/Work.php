@@ -17,5 +17,6 @@ final class Work
         public readonly CarbonInterface $modified,
         public readonly array $subjects,
         public readonly array $covers,
-    ) {}
+    ) {
+    }
 }

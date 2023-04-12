@@ -30,12 +30,12 @@ final class BookResource implements ResourceContract
             $response = $this->sdk()->client()->sendRequest(
                 request: (new Request(
                     method: Method::GET,
-                    uri: "https://openlibrary.org/works/$identifier.json",
+                    uri: "https://openlibrary.org/works/{$identifier}.json",
                 ))->toPsrRequest(),
             );
         } catch (Throwable $exception) {
             throw new FailedToFetchWork(
-                message: "Failed to fetch work for identifier: [$identifier].",
+                message: "Failed to fetch work for identifier: [{$identifier}].",
                 previous: $exception,
             );
         }
